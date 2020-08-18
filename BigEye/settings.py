@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'BigEye.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'jjitz1vbdzx5tjev',
-        'USER': 'g0rkdpdk0qfv046g',
-        'PASSWORD': 'quhjicp6gr9k8xkv',
-        'HOST': 'pqxt96p7ysz6rn1f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',   # Or an IP Address that your DB is hosted on
+        'NAME': 'o1n6nho74gtxii0b',
+        'USER': 'pm6wwisqybkqxchg',
+        'PASSWORD': 'g54ghc6kji6mj3s3',
+        'HOST': 'z12itfj4c1vgopf8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
 }
